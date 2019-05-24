@@ -1,0 +1,14 @@
+*.iml
+.gradle/
+local.properties
+.idea/
+
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+samples/face-detection/build
+samples/face-detection/release
+sdk/build
+samples/build/
+*.rar
